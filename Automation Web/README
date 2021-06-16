@@ -1,0 +1,17 @@
+First download Ruby (https://rubyinstaller.org/)
+Download the Webdriver, Chrome (ttp://chromedriver.chromium.org/) or Firefox (https://github.com/mozilla/geckodriver/releases)
+Make sure your browser version is support
+After download the Ruby, install
+Copy the Webdriver to bin folder on Ruby Instalation folder (ex: C:\Ruby24x64\bin)
+Set the environment for Ruby (Right click on my computer > Properties > Advance system settings > environment variable > PATH > edit)
+Input folder path (ex: C:\Ruby24x64\bin)
+Click OK > OK > OK
+Instal gem using Command Prompt
+Input "gem install selenium-webdriver" push enter and wait until the instalation finish
+Input "gem install cucumber" push enter and wait until the instalation finish
+Input "gem install bundler" push enter and wait until the instalation finish
+Input "gem install rspec" push enter and wait until the instalation finish
+To run the automation open one of the folder
+Run the command prompt on the folder
+Input cucumber on the command prompt
+The test will be run automatically
