@@ -1,0 +1,4 @@
+First you need to download Jmeter (https://jmeter.apache.org/download_jmeter.cgi)
+After download it, you need to install
+After that open the Jmeter and choose to open View Results Tree.jmx
+Then run the file
